@@ -32,20 +32,20 @@ The project features several focused reporting layers:
 ### Core Project Views
 | National Overview | Relational Model |
 | :---: | :---: |
-| ![Maji Ndogo Overview](MajiNdogo/Images/MajiNdogoOverview.png) | ![Model View](MajiNdogo/Images/Modelview.png) |
+| ![Maji Ndogo Overview](Images/MajiNdogoOverview.png) | ![Model View](Images/Modelview.png) |
 
 ### Regional Breakdowns
 | Akatsi Overview | Amanzi Overview |
 | :---: | :---: |
-| ![Akatsi Overview](MajiNdogo/Images/AkatsiOverview.png) | ![Amanzi Overview](MajiNdogo/Images/AmanziOverview.png) |
+| ![Akatsi Overview](Images/AkatsiOverview.png) | ![Amanzi Overview](Images/AmanziOverview.png) |
 
 | Hawassa Overview | Kilimani Overview |
 | :---: | :---: |
-| ![Hawassa Overview](MajiNdogo/Images/HawassaOverview.png) | ![Kilimani Overview](MajiNdogo/Images/KilimaniOverview.png) |
+| ![Hawassa Overview](Images/HawassaOverview.png) | ![Kilimani Overview](Images/KilimaniOverview.png) |
 
 | Sokoto Overview |
 | :---: |
-| ![Sokoto Overview](MajiNdogo/Images/SokotoOverview.png) |
+| ![Sokoto Overview](Images/SokotoOverview.png) |
 
 ---
 
@@ -53,7 +53,7 @@ The project features several focused reporting layers:
 1.  **Requirement:** You must have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Fredrick-Maina-Mburu/maji-ndogo-water-viz.git](https://github.com/your-username/maji-ndogo-water-viz.git)
+    git clone [https://github.com/Fredrick-Maina-Mburu/MajiNdogo.git]
     ```
 3.  **Open the Project:** Launch `MajiNdogo.pbix` to explore the interactive visualizations, slicers, and cross-visual filtering.
 
